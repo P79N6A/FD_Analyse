@@ -21,10 +21,13 @@ def iterate_zip(folder):
                 os.remove(absolute_path)
             ## iterate folder
             iterate_zip(extract_file_path)
-        elif not absolute_path.endswith('.txt'):
+        elif not absolute_path.endswith('.txt') and not absolute_path.endswith('.socket'):
             print(str.format("unknown file {0}", absolute_path))
 
 def start_unzip():
     save_folder = get_save_path()
     print(str.format("start_unzip {0}", save_folder))
+    if not os.path.exists(save_folder):
+        print(str.format("unable to unzip {0} because no file", save_folder))
+        return
     iterate_zip(save_folder)

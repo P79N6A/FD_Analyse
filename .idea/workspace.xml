@@ -4,13 +4,28 @@
     <list default="true" id="059869d7-d96d-46bd-9e0b-699444c3d5ad" name="Default" comment="" />
     <ignored path="Tool.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/analyse.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1521719510105" ignored="false" />
+    <file path="/analyse.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1550578646463" ignored="false" />
     <file path="/download.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1521687718457" ignored="false" />
-    <file path="/unzip.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1521688403207" ignored="false" />
-    <file path="/count_line.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1521720525686" ignored="false" />
-    <file path="/visit.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1521689276496" ignored="false" />
+    <file path="/unzip.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1529410828117" ignored="false" />
+    <file path="/count_line.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1532416479192" ignored="false" />
+    <file path="/visit.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535545741816" ignored="false" />
     <file path="/a.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1521634840917" ignored="false" />
     <file path="/start_script.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1521634864715" ignored="false" />
+    <file path="D:/Django/clock/clock.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1522744315886" ignored="false" />
+    <file path="/clock.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1522744133105" ignored="false" />
+    <file path="/custom_analyse.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1531139908248" ignored="false" />
+    <file path="/sngapm_api.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535459903944" ignored="false" />
+    <file path="/socket_stat.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1525858785885" ignored="false" />
+    <file path="D:/Django/ConfigTest/config.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1529486487736" ignored="false" />
+    <file path="/config.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1529485847281" ignored="false" />
+    <file path="/Report.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535545955572" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/Server/FDStats/cronjob.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535545549942" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/Server/FDStats/unzip.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535545162192" ignored="false" />
+    <file path="/cronjob.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535545549061" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/Server/FDStats/Report.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535545993854" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/Server/FDStats/count_line.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535545490360" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/Server/FDStats/download.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535545497622" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Web/Server/FDStats/visit.py" changelist="059869d7-d96d-46bd-9e0b-699444c3d5ad" time="1535545887879" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +45,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="analyse.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="analyse.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/albert/fd/analyse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="14" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
+            <state line="28" column="21" selection-start="1058" selection-end="1058" vertical-scroll-proportion="0.16549295">
               <folding />
             </state>
           </provider>
@@ -42,37 +57,53 @@
       <file leaf-file-name="count_line.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/albert/fd/count_line.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="26" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
+            <state line="185" column="31" selection-start="5686" selection-end="5686" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="download.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/albert/fd/download.py">
+      <file leaf-file-name="Report.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/albert/fd/Report.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="33" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
+            <state line="179" column="17" selection-start="6946" selection-end="6946" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unzip.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/albert/fd/unzip.py">
+      <file leaf-file-name="custom_analyse.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/albert/fd/custom_analyse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="34" column="40" selection-start="1133" selection-end="1133" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="visit.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sngapm_api.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/albert/fd/sngapm_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="37" selection-start="1224" selection-end="1224" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="decoder.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/Python3/Lib/json/decoder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="356" column="0" selection-start="12484" selection-end="12484" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="visit.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/albert/fd/visit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="24" selection-start="862" selection-end="862" vertical-scroll-proportion="0.6313364">
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
+            <state line="25" column="45" selection-start="779" selection-end="789" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,19 +119,23 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/analyse.py" />
-        <option value="$PROJECT_DIR$/com/albert/fd/visit.py" />
-        <option value="$PROJECT_DIR$/com/albert/fd/unzip.py" />
         <option value="$PROJECT_DIR$/com/albert/fd/download.py" />
+        <option value="$USER_HOME$/.PyCharm20/system/python_stubs/1814091409/builtins.py" />
+        <option value="$PROJECT_DIR$/com/albert/fd/socket_stat.py" />
+        <option value="$PROJECT_DIR$/com/albert/fd/unzip.py" />
+        <option value="$PROJECT_DIR$/com/albert/fd/custom_analyse.py" />
+        <option value="$PROJECT_DIR$/com/albert/fd/visit.py" />
         <option value="$PROJECT_DIR$/com/albert/fd/count_line.py" />
+        <option value="$PROJECT_DIR$/com/albert/fd/Report.py" />
+        <option value="$PROJECT_DIR$/com/albert/fd/sngapm_api.py" />
         <option value="$PROJECT_DIR$/com/albert/fd/analyse.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="2" />
+    <option name="width" value="1918" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -136,6 +171,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FD_Analyse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -144,11 +189,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web/Server/FDStats" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -279,18 +325,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="2" y="0" width="1918" height="1040" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18676628" sideWeight="0.606466" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1557112" sideWeight="0.44709897" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4167598" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.393534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59681094" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.552901" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -376,54 +422,30 @@
           <line>240</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/com/albert/fd/count_line.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/com/albert/fd/Report.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/com/albert/fd/Report.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/albert/fd/download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="21" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/albert/fd/unzip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/albert/fd/visit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="40" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/albert/fd/analyse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="73" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/albert/fd/download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="4" selection-start="512" selection-end="568" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/albert/fd/visit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="43" selection-end="120" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -444,50 +466,77 @@
     </entry>
     <entry file="file://D:/Python3/Lib/zipfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="179" column="0" selection-start="4770" selection-end="4770" vertical-scroll-proportion="0.026436782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm20/system/python_stubs/1814091409/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4539" column="8" selection-start="150787" selection-end="150787" vertical-scroll-proportion="3.9148936" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/albert/fd/analyse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/albert/fd/count_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="26" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
+        <state line="174" column="4" selection-start="4601" selection-end="4601" vertical-scroll-proportion="0.33271375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/albert/fd/download.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="33" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="36" selection-start="452" selection-end="452" vertical-scroll-proportion="0.34447005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/albert/fd/socket_stat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="36" selection-start="1890" selection-end="1890" vertical-scroll-proportion="1.0599078" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/albert/fd/unzip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="23" column="64" selection-start="934" selection-end="934" vertical-scroll-proportion="0.50345623" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm20/system/python_stubs/1814091409/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4506" column="8" selection-start="149342" selection-end="149342" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python3/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="356" column="0" selection-start="12484" selection-end="12484" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/albert/fd/Report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="17" selection-start="6946" selection-end="6946" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/albert/fd/count_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="31" selection-start="5686" selection-end="5686" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/albert/fd/visit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="24" selection-start="862" selection-end="862" vertical-scroll-proportion="0.6313364">
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
+        <state line="25" column="45" selection-start="779" selection-end="789" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/albert/fd/sngapm_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="37" selection-start="1224" selection-end="1224" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/albert/fd/custom_analyse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="40" selection-start="1133" selection-end="1133" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/albert/fd/analyse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="21" selection-start="1058" selection-end="1058" vertical-scroll-proportion="0.16549295">
+          <folding />
         </state>
       </provider>
     </entry>
